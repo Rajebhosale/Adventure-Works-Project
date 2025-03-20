@@ -59,15 +59,5 @@ Improve data quality with advanced cleaning techniques
 
 Automate data updates using Power Query
 
-Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
-
-Contact
-
-For any queries, reach out via [your email] or open an issue on GiTHub.
 
